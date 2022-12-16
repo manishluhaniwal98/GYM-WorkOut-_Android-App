@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Fitness and Nutrition</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="sign_up_text">Don\'t have an account? <u>Sign up</u></string>
+    <string name="login_text">Already have an account? <u>Log in</u></string>
+
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    
+    <string name="high_knee_taps">Stand with your feet hip-width apart. Lift up your left knee to your chest. Switch to lift your right knee to your chest. Continue the movement, alternating legs and moving at a sprinting or running pace.</string>
+
+    <string name="jumping_jacks">Stand straight with arms on side. Jump up and spread your feet beyond hip-width apart while bringing your arms above your head, nearly touching.Jump again, lowering your arms and bringing your legs together.</string>
+
+    <string name="bridge">Lie down facing up on a yoga mat with your feet resting on top of a fitball and arms resting by your sides. Gently draw your ribs to your hips to engage your core. Lift your hips until you are resting on your upper back, ensuring that your glutes initiate the movement, bend your knees to roll the fitball in towards you.</string>
+
+    <string name="incline_push_ups">Stand in front of a box or bench, and switch to push up position. Make sure your body is in a straight line. Next, bend your arms to help you slowly lower your chest toward the box. Straighten your arms to bring yourself back up into a straight line.</string>
+
+    <string name="mountain_climbers">Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.Pull your right knee into your chest as far as you can.Switch legs, pulling one knee out and bringing the other knee in.</string>
+
+    <string name="forward_lunges">Stand tall with feet hip-width apart and take a big step forward with right leg. Start to shift your weight forward so heel hits the floor first. Lower your body until right thigh is parallel to the floor and right shin is vertical. Press into right heel to drive back up to starting position. </string>
+
+    <string name="deficit_push_ups">Place hands on an elevated object, such as plates or parallettes, and get into a push up position and do the same movement as regular push ups.</string>
+
+    <string name="floor_dips">Position your hands shoulder width apart on the floor. Move your booty in front with your legs out in front of you. Now slowly bend at your elbows, and lower your upper body toward the floor until your arms are at about a 90 degree angle. Then slowly press off and push straight back up at starting position.</string>
+
+    <string name="squats">Stand straight with feet a little wider than hip width. Drive your hips back bending at the knees and ankles and pressing your knees slightly open. Sit into a squat position while still keeping your heels and toes on the ground. Press into your heels and straighten legs to return to a standing upright position.</string>
+
+    <string name="planks">Lie on the floor with your toes and forearms on the ground. Keep your body straight and hold this position as long as you can. This exercise strengthen abdomen, back and shoulders.</string>
+
+    <string name="bicycle_crunches">Lie faceup with legs extended and arms along sides. Raise head a few inches. Lift legs off the floor, then slowly sit up, drawing knees to elbows directly over hips. Hold, then slowly lower torso and extend legs, keeping head and feet slightly off the floor.</string>
+
+    <string name="cobra_stretch">Lie down facing down on the mat with head slightly lifted and hand sitting directly under shoulders. Point your toes so the tops of you feet are on the mat. Then, press arms straight and lift upper body and front of hips off the mat. Keep your abdominals contracted and breathe slowly.</string>
+
+    <string name="chest_shoulder_stretch">Standing straight, move both of your hands concurrently from below to top position and feel a stretch in your chest and shoulder. </string>
+
+    <string name="child_pose">Begin on your hands and knees. Spread your knees wide apart while keeping your big toes touching. Sit up straight and lengthen your spine up through the crown of your head. Bow forward, draping your torso between your thighs. Keep your arms long and extended, palms facing down.</string>
+
+    <string name="burpees">Start in a squat position with your knees bent, Lower your hands to the floor in front of you so they’re just inside your feet. Kick your feet back so you’re on your hands and toes, and in a pushup position. Do a frog kick by jumping your feet back to their starting position. Stand and reach your arms over your head.</string>
+
+    <string name="decline_push_ups">Place your feet on a table or a stable chair and get into push up position. Make sure your body is in a straight line. Then bend your arms to help you slowly lower your chest and straighten your arms to bring yourself back up into a straight line.</string>
+
+    <string name="flutter_kicks">Lie down on your back, facing up. Place both your hands underneath your buttocks. Keep your lower back on the ground as you lift the right leg off the ground slightly past hip height, and lift the left leg so it hovers a few inches off the floor. Hold for 2 seconds, then switch the position of the legs, making a flutter kick motion.</string>
+
+    <string name="archer_push_ups">Get into a regular push up position and push through your right hand, pushing your body away to the left until the right arm is straight and left arm is bent, with the elbow tucked into your side. Push through your left hand, pushing your body away to your right until your left arm is straight and right arm is bent, with elbow tucked into your side.</string>
+
+    <string name="bird_dog">Kneel with knees hip-width apart and hands firmly on the ground about shoulder-width apart. Point the arm out straight in front and extend the opposite leg behind you. You should form one straight line from your hand to your foot, keeping hips squared to the ground.</string>
+
+    <string name="jumping_lunges">Get into a regular lunge position as you bend forward jump up and switch to other leg.</string>
+
+    <string name="plank_low_to_high">Start in the high plank position on your hands and toes with your body in a straight line. Lower yourself down to your elbows and then back up to your hands with control.</string>
+
+    <string name="squat_jumps">Start standing with feet hip distance apart and lower into a squat position by bending the knees. Keep the spine straight, chest lifted, and knees behind toes. Arms are in front of the chest for balance. Jump straight up and swing arms overhead. Return to squat.</string>
+
+
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+</resources>

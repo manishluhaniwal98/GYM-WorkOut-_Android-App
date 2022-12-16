@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167349248197",
+    "project_id": "fitness-and-nutrition-d3c30",
+    "storage_bucket": "fitness-and-nutrition-d3c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167349248197:android:1887d76ce208b663f590ac",
+        "android_client_info": {
+          "package_name": "com.app.fitnessandnutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167349248197-ee32oq8urd4e2osu1j2abdniqioobpo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.fitnessandnutrition",
+            "certificate_hash": "d72f24ead681b4b63c92176738ef138612c779b3"
+          }
+        },
+        {
+          "client_id": "167349248197-98nhkd95f3mgm8s6h4atqo8l0gi5r0fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQn7HEczHrgI1Pf4xOFNKPzvMRCWlFsHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167349248197-98nhkd95f3mgm8s6h4atqo8l0gi5r0fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
